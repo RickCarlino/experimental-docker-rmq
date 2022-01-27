@@ -1,4 +1,3 @@
-# Highly Experimental
+# RabbitMQ Broker
 
-Work in progress. Please don't use.
-
+This is a Docker image used by the FarmBot Web App.
